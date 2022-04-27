@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ryanmacklin95@yahoo.com.lwc-l2hwj2jn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve X3BXXyTFTI3oEsjUV0P5 --open"
+  }
+}
